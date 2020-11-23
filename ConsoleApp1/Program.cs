@@ -11,6 +11,7 @@ namespace ConsoleApp1
 
             Console.WriteLine("Hello world!");
             Console.WriteLine("Bom dia");
+            Console.WriteLine("Como você está hoje?");
             
             Console.ReadLine();
 
